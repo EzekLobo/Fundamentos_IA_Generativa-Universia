@@ -8,7 +8,7 @@ Este documento consolida a estratégia de **Engenharia de Prompt** utilizada par
 
 | Objetivo | Prompt Estratégico |
 | :--- | :--- |
-| **Naming & Subtítulo** | "Atue como um educador técnico e copywriter. Gere um nome para um ebook de lógica de programação para iniciantes. **Critérios:** 1. Deve usar um verbo de ação (ex: 'Destravar'); 2. O subtítulo deve prometer um método prático e direto; 3. O tom deve ser encorajador." |
+| **Naming & Subtítulo** | "Atue como um educador técnico e copywriter. Gere um nome para um ebook de lógica de programação para iniciantes. **Critérios:** 1. Deve ser um nome curto e marcante que chame a atenção do leitor; 2. O subtítulo deve prometer um método prático e direto; 3. O tom deve ser encorajador." |
 | **Sumário Didático** | "Crie a estrutura de capítulos para um manual de lógica. Divida em 4 pilares essenciais: introdução aos algoritmos, armazenamento de dados, fluxo de decisão e reutilização de código. Use metáforas do cotidiano." |
 
 ---
@@ -36,7 +36,7 @@ Este documento consolida a estratégia de **Engenharia de Prompt** utilizada par
 
 | Campo | Descrição |
 | :--- | :--- |
-| **Autor** | Ezequiel Lobo Oliveira [cite: 186] |
+| **Autor** | Ezequiel Lobo Oliveira |
 | **Metodologia** | "Esse ebook foi criado por IA e diagramado por humano." |
 
 ---
